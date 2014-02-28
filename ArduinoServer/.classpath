@@ -17,6 +17,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry combineaccessrules="false" kind="src" path="/ArduinoComunication"/>
-	<classpathentry kind="lib" path="C:/Users/Anderson/Desktop/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anderson/Desktop/Arduino/arduino-communication/lib/RXTXcomm.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
